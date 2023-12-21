@@ -5,10 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon",
-    "preinstall": "rimraf node_modules",
     "build": "npx rimraf ./build && tsc",
     "start": "node build/server.js"
-  },
+  },  
   "keywords": [],
   "author": "",
   "license": "ISC",
