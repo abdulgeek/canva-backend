@@ -1,0 +1,2274 @@
+{
+  error: [96msrc/utils/token.ts[0m:[93m16[0m:[93m13[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.
+  
+  [7m16[0m             activationCode
+  [7m  [0m [91m            ~~~~~~~~~~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m19[0m:[93m25[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.
+  
+  [7m19[0m         return { token, activationCode };
+  [7m  [0m [91m                        ~~~~~~~~~~~~~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:19 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31224,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 314359808,
+      heapTotal: 226787328,
+      heapUsed: 194893032,
+      external: 23482588,
+      arrayBuffers: 20605768
+    }
+  },
+  os: {
+    loadavg: [ 1.92431640625, 1.7939453125, 1.85888671875 ],
+    uptime: 41560
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:19.282 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m16[0m:[93m13[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.
+  
+  [7m16[0m             activationCode
+  [7m  [0m [91m            ~~~~~~~~~~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m19[0m:[93m25[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.
+  
+  [7m19[0m         return { token, activationCode };
+  [7m  [0m [91m                        ~~~~~~~~~~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m             user._id,
+  [7m  [0m [91m                ~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             activationCode\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:25 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31291,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 313376768,
+      heapTotal: 226263040,
+      heapUsed: 194806552,
+      external: 23474452,
+      arrayBuffers: 20597632
+    }
+  },
+  os: {
+    loadavg: [ 1.94189453125, 1.80078125, 1.85986328125 ],
+    uptime: 41566
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:25.085 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m18[0m:[93m25[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.
+  
+  [7m18[0m         return { token, activationCode };
+  [7m  [0m [91m                        ~~~~~~~~~~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m             user._id,
+  [7m  [0m [91m                ~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m18\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m18\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m18\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m18\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m18\x1B[0m:\x1B[93m25\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'activationCode'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m18\x1B[0m         return { token, activationCode };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                        ~~~~~~~~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:27 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31355,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 277217280,
+      heapTotal: 226525184,
+      heapUsed: 193421656,
+      external: 23482708,
+      arrayBuffers: 20605888
+    }
+  },
+  os: {
+    loadavg: [ 1.94189453125, 1.80078125, 1.85986328125 ],
+    uptime: 41568
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:27.547 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m15[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m             user._id,
+  [7m  [0m [91m                ~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:33 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31428,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 284114944,
+      heapTotal: 221544448,
+      heapUsed: 198455168,
+      external: 23482604,
+      arrayBuffers: 20605784
+    }
+  },
+  os: {
+    loadavg: [ 1.9462890625, 1.8037109375, 1.8603515625 ],
+    uptime: 41574
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:33.496 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m15[0m:[93m19[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.
+  
+  [7m15[0m             user?._id,
+  [7m  [0m [91m                  ~~~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m             user?._id,
+  [7m  [0m [91m                ~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:39 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31491,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 316637184,
+      heapTotal: 221806592,
+      heapUsed: 199244248,
+      external: 23482532,
+      arrayBuffers: 20605712
+    }
+  },
+  os: {
+    loadavg: [ 1.8701171875, 1.7900390625, 1.85498046875 ],
+    uptime: 41580
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:39.658 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m16[0m:[93m19[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.
+  
+  [7m16[0m             user?._id,
+  [7m  [0m [91m                  ~~~[0m
+  [96msrc/utils/token.ts[0m:[93m16[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m16[0m             user?._id,
+  [7m  [0m [91m                ~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:47 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31557,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 283361280,
+      heapTotal: 222330880,
+      heapUsed: 198631568,
+      external: 23482484,
+      arrayBuffers: 20605664
+    }
+  },
+  os: { loadavg: [ 1.8896484375, 1.796875, 1.85595703125 ], uptime: 41588 },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:47.830 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m15[0m:[93m39[0m - [91merror[0m[90m TS2693: [0m'any' only refers to a type, but is being used as a value here.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m                                      ~~~[0m
+  [96msrc/utils/token.ts[0m:[93m14[0m:[93m9[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m14[0m     try {
+  [7m  [0m [91m        ~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m15[0m - [91merror[0m[90m TS1005: [0m':' expected.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m              ~~~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m22[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m                     ~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m                             ~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m37[0m - [91merror[0m[90m TS1005: [0m'>' expected.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m                                    ~[0m
+  [96msrc/utils/token.ts[0m:[93m15[0m:[93m44[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+  
+  [7m15[0m         const payload: Record<string, any> = {
+  [7m  [0m [91m                                           ~[0m
+  [96msrc/utils/token.ts[0m:[93m17[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+  
+  [7m17[0m         };
+  [7m  [0m [91m        ~[0m
+  [96msrc/utils/token.ts[0m:[93m20[0m:[93m7[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m20[0m     } catch (error) {
+  [7m  [0m [91m      ~~~~~[0m
+  [96msrc/utils/token.ts[0m:[93m23[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+  
+  [7m23[0m };
+  [7m  [0m [91m~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m39\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2693: \x1B[0m'any' only refers to a type, but is being used as a value here.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                      ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m14\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m14\x1B[0m     try {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m15\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m':' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m              ~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m22\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                     ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m30\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                             ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m37\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m'>' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                    ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m44\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                           ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m17\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m17\x1B[0m         };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m20\x1B[0m:\x1B[93m7\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m20\x1B[0m     } catch (error) {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m      ~~~~~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m23\x1B[0m:\x1B[93m1\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1128: \x1B[0mDeclaration or statement expected.\n' +
+    '\n' +
+    '\x1B[7m23\x1B[0m };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m39\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2693: \x1B[0m'any' only refers to a type, but is being used as a value here.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                      ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m14\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m14\x1B[0m     try {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m15\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m':' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m              ~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m22\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                     ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m30\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                             ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m37\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m'>' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                    ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m44\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                           ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m17\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m17\x1B[0m         };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m20\x1B[0m:\x1B[93m7\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m20\x1B[0m     } catch (error) {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m      ~~~~~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m23\x1B[0m:\x1B[93m1\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1128: \x1B[0mDeclaration or statement expected.\n' +
+    '\n' +
+    '\x1B[7m23\x1B[0m };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m39\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2693: \x1B[0m'any' only refers to a type, but is being used as a value here.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                      ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m14\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m14\x1B[0m     try {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m15\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m':' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m              ~~~~~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m22\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                     ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m30\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                             ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m37\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m'>' expected.\n" +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                    ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m15\x1B[0m:\x1B[93m44\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m15\x1B[0m         const payload: Record<string, any> = {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                                           ~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m17\x1B[0m:\x1B[93m9\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1109: \x1B[0mExpression expected.\n' +
+    '\n' +
+    '\x1B[7m17\x1B[0m         };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m        ~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m20\x1B[0m:\x1B[93m7\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m20\x1B[0m     } catch (error) {\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m      ~~~~~\x1B[0m\n' +
+    '\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m23\x1B[0m:\x1B[93m1\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1128: \x1B[0mDeclaration or statement expected.\n' +
+    '\n' +
+    '\x1B[7m23\x1B[0m };\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:50 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31623,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 302956544,
+      heapTotal: 222330880,
+      heapUsed: 198902856,
+      external: 23482388,
+      arrayBuffers: 20605568
+    }
+  },
+  os: {
+    loadavg: [ 2.37890625, 1.8994140625, 1.8916015625 ],
+    uptime: 41591
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:50.168 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m16[0m:[93m19[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.
+  
+  [7m16[0m             user?._id,
+  [7m  [0m [91m                  ~~~[0m
+  [96msrc/utils/token.ts[0m:[93m16[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m',' expected.
+  
+  [7m16[0m             user?._id,
+  [7m  [0m [91m                ~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m19\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property '_id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                  ~~~\x1B[0m\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m17\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS1005: \x1B[0m',' expected.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             user?._id,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m                ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:52:51 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 31685,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 314425344,
+      heapTotal: 226263040,
+      heapUsed: 191838472,
+      external: 23474284,
+      arrayBuffers: 20590683
+    }
+  },
+  os: {
+    loadavg: [ 2.37890625, 1.8994140625, 1.8916015625 ],
+    uptime: 41592
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:52:51.907 PM'
+}
+{
+  error: [96msrc/routes/user.route.ts[0m:[93m19[0m:[93m2[0m - [91merror[0m[90m TS2769: [0mNo overload matches this call.
+    The last overload gave the following error.
+      Argument of type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>' is not assignable to parameter of type 'PathParams'.
+  
+  [7m19[0m  authMiddleware,
+  [7m  [0m [91m ~~~~~~~~~~~~~~[0m
+  
+    [96mnode_modules/@types/express-serve-static-core/index.d.ts[0m:[93m164[0m:[93m5[0m
+      [7m164[0m     (path: PathParams, subApplication: Application): T;
+      [7m   [0m [96m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+      The last overload is declared here.
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    '\x1B[96msrc/routes/user.route.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m2\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2769: \x1B[0mNo overload matches this call.\n' +
+    '  The last overload gave the following error.\n' +
+    "    Argument of type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>' is not assignable to parameter of type 'PathParams'.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m  authMiddleware,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    '  \x1B[96mnode_modules/@types/express-serve-static-core/index.d.ts\x1B[0m:\x1B[93m164\x1B[0m:\x1B[93m5\x1B[0m\n' +
+    '    \x1B[7m164\x1B[0m     (path: PathParams, subApplication: Application): T;\n' +
+    '    \x1B[7m   \x1B[0m \x1B[96m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1B[0m\n' +
+    '    The last overload is declared here.\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    '\x1B[96msrc/routes/user.route.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m2\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2769: \x1B[0mNo overload matches this call.\n' +
+    '  The last overload gave the following error.\n' +
+    "    Argument of type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>' is not assignable to parameter of type 'PathParams'.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m  authMiddleware,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    '  \x1B[96mnode_modules/@types/express-serve-static-core/index.d.ts\x1B[0m:\x1B[93m164\x1B[0m:\x1B[93m5\x1B[0m\n' +
+    '    \x1B[7m164\x1B[0m     (path: PathParams, subApplication: Application): T;\n' +
+    '    \x1B[7m   \x1B[0m \x1B[96m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1B[0m\n' +
+    '    The last overload is declared here.\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    '\x1B[96msrc/routes/user.route.ts\x1B[0m:\x1B[93m19\x1B[0m:\x1B[93m2\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2769: \x1B[0mNo overload matches this call.\n' +
+    '  The last overload gave the following error.\n' +
+    "    Argument of type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>' is not assignable to parameter of type 'PathParams'.\n" +
+    '\n' +
+    '\x1B[7m19\x1B[0m  authMiddleware,\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m ~~~~~~~~~~~~~~\x1B[0m\n' +
+    '\n' +
+    '  \x1B[96mnode_modules/@types/express-serve-static-core/index.d.ts\x1B[0m:\x1B[93m164\x1B[0m:\x1B[93m5\x1B[0m\n' +
+    '    \x1B[7m164\x1B[0m     (path: PathParams, subApplication: Application): T;\n' +
+    '    \x1B[7m   \x1B[0m \x1B[96m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1B[0m\n' +
+    '    The last overload is declared here.\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 17:53:36 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 32036,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 256507904,
+      heapTotal: 181764096,
+      heapUsed: 148162080,
+      external: 23487936,
+      arrayBuffers: 20598899
+    }
+  },
+  os: {
+    loadavg: [ 2.05908203125, 1.8544921875, 1.87255859375 ],
+    uptime: 41637
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 05:53:36.181 PM'
+}
+{
+  error: [96msrc/utils/token.ts[0m:[93m16[0m:[93m13[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'id'. Either declare one or provide an initializer.
+  
+  [7m16[0m             id
+  [7m  [0m [91m            ~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             id\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             id\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/utils/token.ts\x1B[0m:\x1B[93m16\x1B[0m:\x1B[93m13\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS18004: \x1B[0mNo value exists in scope for the shorthand property 'id'. Either declare one or provide an initializer.\n" +
+    '\n' +
+    '\x1B[7m16\x1B[0m             id\n' +
+    '\x1B[7m  \x1B[0m \x1B[91m            ~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Wed Dec 20 2023 18:02:03 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 33682,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 305774592,
+      heapTotal: 222068736,
+      heapUsed: 198832272,
+      external: 23482556,
+      arrayBuffers: 20605736
+    }
+  },
+  os: {
+    loadavg: [ 3.15576171875, 2.2451171875, 2.01611328125 ],
+    uptime: 42144
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 06:02:03.453 PM'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::5001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)
+      at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)
+      at Module._compile (node:internal/modules/cjs/loader:1233:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)
+      at Module.load (node:internal/modules/cjs/loader:1091:32)
+      at Module._load (node:internal/modules/cjs/loader:938:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 5001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::5001\n' +
+    'Error: listen EADDRINUSE: address already in use :::5001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)\n' +
+    '    at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1233:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)\n' +
+    '    at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1233:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)',
+  exception: true,
+  date: 'Wed Dec 20 2023 18:52:30 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 44908,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+      '/Users/abdul/Desktop/Canva/backend/build/server.js'
+    ],
+    memoryUsage: {
+      rss: 93192192,
+      heapTotal: 59654144,
+      heapUsed: 35781648,
+      external: 20467267,
+      arrayBuffers: 18262682
+    }
+  },
+  os: { loadavg: [ 2.08642578125, 2.09765625, 2.16796875 ], uptime: 45171 },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 10,
+      file: '/Users/abdul/Desktop/Canva/backend/build/server.js',
+      function: 'StartServer',
+      line: 137,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/abdul/Desktop/Canva/backend/build/server.js',
+      function: null,
+      line: 140,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1233,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 83,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 06:52:30.827 PM'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::5001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)
+      at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)
+      at Module._compile (node:internal/modules/cjs/loader:1233:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)
+      at Module.load (node:internal/modules/cjs/loader:1091:32)
+      at Module._load (node:internal/modules/cjs/loader:938:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 5001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::5001\n' +
+    'Error: listen EADDRINUSE: address already in use :::5001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)\n' +
+    '    at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1233:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at StartServer (/Users/abdul/Desktop/Canva/backend/build/server.js:137:10)\n' +
+    '    at Object.<anonymous> (/Users/abdul/Desktop/Canva/backend/build/server.js:140:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1233:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)',
+  exception: true,
+  date: 'Wed Dec 20 2023 18:52:39 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 44946,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+      '/Users/abdul/Desktop/Canva/backend/build/server.js'
+    ],
+    memoryUsage: {
+      rss: 94044160,
+      heapTotal: 59392000,
+      heapUsed: 36120112,
+      external: 20467267,
+      arrayBuffers: 18262682
+    }
+  },
+  os: {
+    loadavg: [ 1.84521484375, 2.04443359375, 2.14794921875 ],
+    uptime: 45180
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 10,
+      file: '/Users/abdul/Desktop/Canva/backend/build/server.js',
+      function: 'StartServer',
+      line: 137,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/abdul/Desktop/Canva/backend/build/server.js',
+      function: null,
+      line: 140,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1233,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 83,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-20 06:52:39.935 PM'
+}
+{
+  error: [96msrc/routes/design.route.ts[0m:[93m40[0m:[93m73[0m - [91merror[0m[90m TS2304: [0mCannot find name 'upload'.
+  
+  [7m40[0m designRoute.post('/create-user-design', authMiddleware, authMiddleware, upload.single('image'), createUserDesign);
+  [7m  [0m [91m                                                                        ~~~~~~[0m
+  ,
+  level: 'error',
+  message: 'uncaughtException: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/routes/design.route.ts\x1B[0m:\x1B[93m40\x1B[0m:\x1B[93m73\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2304: \x1B[0mCannot find name 'upload'.\n" +
+    '\n' +
+    "\x1B[7m40\x1B[0m designRoute.post('/create-user-design', authMiddleware, authMiddleware, upload.single('image'), createUserDesign);\n" +
+    '\x1B[7m  \x1B[0m \x1B[91m                                                                        ~~~~~~\x1B[0m\n' +
+    '\n' +
+    'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/routes/design.route.ts\x1B[0m:\x1B[93m40\x1B[0m:\x1B[93m73\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2304: \x1B[0mCannot find name 'upload'.\n" +
+    '\n' +
+    "\x1B[7m40\x1B[0m designRoute.post('/create-user-design', authMiddleware, authMiddleware, upload.single('image'), createUserDesign);\n" +
+    '\x1B[7m  \x1B[0m \x1B[91m                                                                        ~~~~~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  stack: 'TSError: ⨯ Unable to compile TypeScript:\n' +
+    "\x1B[96msrc/routes/design.route.ts\x1B[0m:\x1B[93m40\x1B[0m:\x1B[93m73\x1B[0m - \x1B[91merror\x1B[0m\x1B[90m TS2304: \x1B[0mCannot find name 'upload'.\n" +
+    '\n' +
+    "\x1B[7m40\x1B[0m designRoute.post('/create-user-design', authMiddleware, authMiddleware, upload.single('image'), createUserDesign);\n" +
+    '\x1B[7m  \x1B[0m \x1B[91m                                                                        ~~~~~~\x1B[0m\n' +
+    '\n' +
+    '    at createTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:859:12)\n' +
+    '    at reportTSError (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:863:19)\n' +
+    '    at getOutput (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1077:36)\n' +
+    '    at Object.compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1433:41)\n' +
+    '    at Module.m._compile (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1617:30)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1287:10)\n' +
+    '    at Object.require.extensions.<computed> [as .ts] (/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts:1621:12)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1091:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:938:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1115:19)',
+  exception: true,
+  date: 'Thu Dec 21 2023 14:19:55 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 22762,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/abdul/Desktop/Canva/backend',
+    execPath: '/Users/abdul/.nvm/versions/node/v20.5.1/bin/node',
+    version: 'v20.5.1',
+    argv: [
+      '/Users/abdul/Desktop/Canva/backend/node_modules/.bin/ts-node',
+      '/Users/abdul/Desktop/Canva/backend/src/server.ts'
+    ],
+    memoryUsage: {
+      rss: 323354624,
+      heapTotal: 235438080,
+      heapUsed: 209719456,
+      external: 23495887,
+      arrayBuffers: 20607123
+    }
+  },
+  os: {
+    loadavg: [ 3.57470703125, 2.83447265625, 2.31884765625 ],
+    uptime: 28741
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'createTSError',
+      line: 859,
+      method: null,
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'reportTSError',
+      line: 863,
+      method: null,
+      native: false
+    },
+    {
+      column: 36,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'getOutput',
+      line: 1077,
+      method: null,
+      native: false
+    },
+    {
+      column: 41,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.compile',
+      line: 1433,
+      method: 'compile',
+      native: false
+    },
+    {
+      column: 30,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Module.m._compile',
+      line: 1617,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1287,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/abdul/Desktop/Canva/backend/node_modules/ts-node/src/index.ts',
+      function: 'Object.require.extensions.<computed> [as .ts]',
+      line: 1621,
+      method: 'ts]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1091,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 938,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 1115,
+      method: 'require',
+      native: false
+    }
+  ],
+  timestamp: '2023-12-21 02:19:55.689 PM'
+}

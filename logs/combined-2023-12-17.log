@@ -1,0 +1,10 @@
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-17 11:55:48.669 AM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-17 11:55:49.112 AM'
+}

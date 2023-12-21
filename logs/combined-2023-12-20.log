@@ -1,0 +1,1810 @@
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:25:24.765 AM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:25:25.392 AM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:22.237 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:22.877 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:27.872 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:28.497 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:46.916 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:47.544 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:53.138 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:53.696 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:55.953 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:30:56.582 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:31:12.887 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:31:13.470 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:31:50.457 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:31:51.144 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:01.338 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:01.924 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:05.271 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:06.706 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:07.306 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:12.110 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:12.747 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:30.709 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:32:31.317 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:18.838 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:19.496 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:21.550 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:22.147 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:51.464 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:52.063 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:54.374 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:33:54.952 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:13.248 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:13.875 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:17.669 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:18.257 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:34.776 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:35.414 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:38.582 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:39.210 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:41.002 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 02:34:41.609 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:07:49.521 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:07:50.205 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:07:58.652 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:00.715 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:01.307 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:02.621 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:03.205 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:06.967 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:07.566 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:10.853 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:11.444 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:18.561 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:19.134 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:21.094 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:21.667 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:23.620 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:24.186 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:26.008 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:26.604 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:30.452 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:31.017 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:32.860 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:33.439 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:34.813 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:35.392 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:52.027 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:52.632 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:54.884 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:08:55.480 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:02.054 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:02.673 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:10.949 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:12.231 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:12.824 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:15.499 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:16.103 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:17.329 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:17.900 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:22.176 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:22.784 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:35.155 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:35.720 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:38.065 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:40.010 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:40.589 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:46.264 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:46.874 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:53.374 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:09:53.965 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:05.645 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:06.216 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:08.107 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:08.668 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:10.723 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:11.342 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:15.543 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:17.307 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:17.917 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:24.331 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:24.910 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:33.443 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:34.049 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:38.126 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:38.722 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:48.189 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:48.778 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:54.435 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:55.074 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:56.523 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:57.101 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:58.617 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:10:59.199 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:12.871 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:13.444 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:17.068 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:17.675 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:34.532 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:35.116 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:40.733 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:41.315 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:43.089 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:43.688 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:45.939 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:11:46.548 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:10.258 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:10.864 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:24.105 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:24.701 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:27.254 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:27.847 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:38.412 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:39.899 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:12:40.485 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:23.355 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:23.980 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:29.205 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:29.791 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:32.620 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:33.191 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:38.845 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:39.449 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:48.648 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:49.921 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:50.513 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:58.163 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:13:58.800 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:14:03.293 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:14:03.859 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:14:49.699 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:14:51.522 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:14:52.102 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:15:02.022 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:15:02.616 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:15:57.320 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:15:57.889 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:15:59.905 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:16:00.499 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 03:50:54.637 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 03:50:55.335 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:44:30.998 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:44:31.636 PM'
+}
+{
+  method: 'GET',
+  url: '/api/ping',
+  status: 200,
+  content_length: '77',
+  response_time: 7.214,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:45:00.163 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:45:12.536 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:45:13.107 PM'
+}
+{
+  method: 'GET',
+  url: '/api/register',
+  status: 404,
+  content_length: '102',
+  response_time: 2.32,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:46:42.237 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/register',
+  status: 404,
+  content_length: '107',
+  response_time: 1.104,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:46:48.866 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/register',
+  status: 200,
+  content_length: '335',
+  response_time: 214.754,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:47:05.958 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 500,
+  content_length: '235',
+  response_time: 61.02,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:48:15.977 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:48:28.057 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:48:28.688 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 500,
+  content_length: '154',
+  response_time: 61.03,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:48:31.604 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:51:35.747 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:51:36.370 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:51:44.498 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:51:45.067 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '710',
+  response_time: 146.475,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:51:59.066 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:52:57.142 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:52:57.722 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 157.647,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:53:03.718 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 4.565,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:53:24.430 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:53:37.963 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:53:38.478 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 142.739,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:53:47.598 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 404,
+  content_length: '111',
+  response_time: 1.069,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:54:08.944 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:54:16.401 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:54:17.033 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 11.026,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:54:18.874 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 150.23,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:54:27.822 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 2.368,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:54:42.391 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:54:59.288 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:54:59.856 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details/6582db41e961b1ac1108aa0a',
+  status: 401,
+  content_length: '129',
+  response_time: 7.836,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:55:00.115 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details/6582db41e961b1ac1108aa0a',
+  status: 401,
+  content_length: '129',
+  response_time: 2.746,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:55:01.206 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:55:12.934 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:55:13.493 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 129.56,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:55:43.864 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 7.634,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:56:21.591 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:57:19.796 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:57:20.370 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:58:23.970 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 2.962,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:58:24.156 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:58:24.532 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '129',
+  response_time: 4,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 05:58:24.909 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 05:58:31.201 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 05:58:31.707 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:00:25.295 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:00:25.868 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 152.856,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:00:30.009 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '113',
+  response_time: 5.751,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:00:46.208 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:01:10.328 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:01:10.837 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '328',
+  response_time: 158.041,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:01:11.995 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '103',
+  response_time: 46.309,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:01:25.155 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:01:50.134 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:01:50.729 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '103',
+  response_time: 519.094,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:01:50.953 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:06.407 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:06.916 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 401,
+  content_length: '103',
+  response_time: 303.773,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:02:07.124 PM'
+}
+{
+  method: 'POST',
+  url: '/api/user/login',
+  status: 200,
+  content_length: '329',
+  response_time: 137.133,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:02:09.977 PM'
+}
+{
+  method: 'GET',
+  url: '/api/user/user-details',
+  status: 200,
+  content_length: '331',
+  response_time: 88.17,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:02:21.152 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:36.958 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:37.502 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:54.015 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:02:54.594 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:08.481 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:09.068 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:20.572 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:21.078 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:28.762 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:29.289 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:33.088 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:33.583 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:37.889 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:38.400 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:52.073 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:53.979 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:19:54.493 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:01.436 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:01.935 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:14.500 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:15.026 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:44.580 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:45.148 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:57.026 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:20:57.555 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:21:53.670 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:21:54.190 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:21.238 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:21.817 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:49.865 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:50.391 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:56.348 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:23:56.869 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:24:12.055 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:24:12.557 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:24:15.723 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:24:16.233 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:25:52.208 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:25:52.762 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:02.003 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:02.518 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:19.919 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:20.465 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:43.634 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:26:44.171 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:27:25.078 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:27:25.691 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:27:32.185 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:27:32.729 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:28:55.729 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:28:56.320 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:37:39.339 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:37:39.934 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:27.695 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:28.206 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:36.166 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:36.669 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:46.803 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:47.432 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:38:59.772 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:39:00.296 PM'
+}
+{
+  method: 'GET',
+  url: '/api-docs/',
+  status: 404,
+  content_length: '99',
+  response_time: 6.753,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:39:28.623 PM'
+}
+{
+  method: 'GET',
+  url: '/favicon.ico',
+  status: 404,
+  content_length: '101',
+  response_time: 2.285,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:39:28.966 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:39:51.454 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:39:52.008 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:07.079 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:07.593 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:12.341 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:12.890 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:29.631 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:40:30.162 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:41:57.414 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:41:58.049 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:21.100 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:21.663 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:30.972 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:31.531 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:58.891 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:43:59.426 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:52:30.825 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:52:39.932 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:52:48.022 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:52:48.595 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:53:33.587 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:53:34.114 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:54:28.335 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:54:28.927 PM'
+}
+{
+  method: 'GET',
+  url: '/api-docs.json',
+  status: 404,
+  content_length: '103',
+  response_time: 12.526,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:55:02.881 PM'
+}
+{
+  method: 'GET',
+  url: '/api-docs.',
+  status: 404,
+  content_length: '99',
+  response_time: 3.561,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-12-20 06:55:06.885 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:56:18.417 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:56:20.550 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:56:21.122 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:57:06.640 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:57:07.126 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 06:57:09.515 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 06:57:10.004 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 07:03:30.085 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 07:03:30.696 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 07:03:55.565 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 07:03:56.065 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 07:05:17.121 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 07:05:17.693 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 07:05:44.559 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 07:05:45.062 PM'
+}
+{
+  message: 'Server running in development mode on port 5001',
+  level: 'info',
+  timestamp: '2023-12-20 07:06:22.446 PM'
+}
+{
+  message: 'Successfully Connected to mongoose 🛢️  ✅',
+  level: 'info',
+  timestamp: '2023-12-20 07:06:22.998 PM'
+}
