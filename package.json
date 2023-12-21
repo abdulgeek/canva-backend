@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon",
-    "build": "rimraf ./build && tsc",
+    "preinstall": "rimraf node_modules",
+    "build": "npx rimraf ./build && tsc",
     "start": "node build/server.js"
   },
   "keywords": [],
