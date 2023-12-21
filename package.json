@@ -1,11 +1,11 @@
 {
-  "name": "lms-backend",
+  "name": "canva-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon",
-    "build": "rimraf ./build && npx tsc",
+    "build": "npm i -D && npm i rimraf typescript && rimraf ./build && tsc",
     "start": "node build/server.js"
   },
   "keywords": [],
